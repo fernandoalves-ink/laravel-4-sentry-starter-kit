@@ -4,13 +4,14 @@ Laravel 4 Sentry Starter Kit
 
     git clone https://github.com/hailtonsilva/laravel-4-sentry-starter-kit.git
 
+Then: 
+
+    cd laravel-4-sentry-starter-kit
+    
 Then:
 
     composer update
 
-Then: 
-
-    cd laravel-4-sentry-starter-kit
 
 Then:
 
