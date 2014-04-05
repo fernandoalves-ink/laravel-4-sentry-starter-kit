@@ -19,7 +19,11 @@ Then:
 
 Then Navigate to localhost:8000 and then open the app in your editor and start tweaking things
 
+Dont forget to read the Sentry 2 docs here: [https://cartalyst.com/manual/sentry][1]
 
 ##Default User and pass:
 User: user@user.com Password: sentryuser <br />
 Admin: admin@admin.com Password: sentryadmin
+
+
+  [1]: https://cartalyst.com/manual/sentry
