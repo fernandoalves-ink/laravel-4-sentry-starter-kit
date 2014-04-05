@@ -19,6 +19,10 @@ Then:
 
 Then Navigate to localhost:8000 and then open the app in your editor and start tweaking things
 
+PS:
+
+The package used here is rydurham/Sentinel
+
 Dont forget to read the Sentry 2 docs here: [https://cartalyst.com/manual/sentry][1]
 
 ##Default User and pass:
