@@ -1,4 +1,4 @@
-laravel-4-sentry-boilerplate
+Laravel 4 Sentry Starter Kit
 ============================
 
 ##Default User and pass
