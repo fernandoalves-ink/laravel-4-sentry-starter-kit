@@ -2,7 +2,7 @@ Laravel 4 Sentry Starter Kit
 ============================
 
 ##Installation:
-Simply copy this to your terminal
+Simply copy this to your terminal and hit enter
 
     git clone https://github.com/hailtonsilva/laravel-4-sentry-starter-kit.git && composer update && cd laravel-4-sentry-starter-kit && php artisan serve
 
