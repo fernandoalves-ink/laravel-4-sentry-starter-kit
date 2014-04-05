@@ -17,6 +17,9 @@ Then:
 
     php artisan serve
 
+Then Navigate to localhost:8000 and then open the app in your editor and start tweaking things
+
+
 ##Default User and pass:
 User: user@user.com Password: sentryuser <br />
 Admin: admin@admin.com Password: sentryadmin
